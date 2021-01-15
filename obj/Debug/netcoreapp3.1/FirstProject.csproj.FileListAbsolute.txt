@@ -34,3 +34,4 @@ E:\COURSES\Net.CoreBook\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.Views.
 E:\COURSES\Net.CoreBook\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.dll
 E:\COURSES\Net.CoreBook\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.pdb
 E:\COURSES\Net.CoreBook\FirstProject\obj\Debug\netcoreapp3.1\FirstProject.csproj.CopyComplete
+E:\COURSES\Net.CoreBook\FirstProject\obj\Debug\netcoreapp3.1\Razor\Views\Home\MyView.cshtml.g.cs

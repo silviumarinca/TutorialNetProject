@@ -18,9 +18,9 @@ namespace FirstProject.Controllers
             _logger = logger;
         }
 
-        public string Index()
+        public ViewResult Index()
         {
-           return "Hello World";
+           return View("MyView");
         }
 
       
